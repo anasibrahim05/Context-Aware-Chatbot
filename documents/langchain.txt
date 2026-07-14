@@ -1,0 +1,18 @@
+LangChain Framework
+
+LangChain is an open source framework designed to help developers build applications powered by large language models. It provides tools to connect language models with external data sources, memory, and other components, making it easier to build complex, context aware applications such as chatbots and question answering systems.
+
+Why LangChain is Useful
+Large language models on their own only know what they learned during training and have no memory of past conversations by default. LangChain solves this by providing building blocks such as document loaders, text splitters, vector stores, memory modules, and chains that can be combined to create powerful applications that go beyond simple text generation.
+
+Core Components of LangChain
+Document loaders read data from many different sources, such as text files, PDFs, websites, and databases, and convert them into a standard format that LangChain can process. Text splitters break large documents into smaller chunks so that they can be embedded and searched efficiently, since language models have a limited context window. Embeddings convert text into numerical vectors that capture semantic meaning, allowing similar pieces of text to be found using mathematical similarity. Vector stores, such as FAISS or Chroma, store these embeddings and allow fast similarity search to retrieve relevant chunks of text. Chains combine multiple steps, such as retrieving documents and generating an answer, into a single pipeline. Memory modules allow an application to remember previous interactions in a conversation, enabling more natural, context aware dialogue. Agents allow a language model to decide which tools or actions to take based on the user's request.
+
+Retrieval Augmented Generation with LangChain
+Retrieval Augmented Generation, or RAG, is a technique where relevant information is retrieved from an external knowledge base and provided to the language model as additional context before it generates a response. LangChain makes it straightforward to build RAG pipelines by combining document loaders, text splitters, embeddings, vector stores, and language models into a single retrieval chain. This approach allows a chatbot to answer questions using information from documents it was never directly trained on, and it reduces the chances of the model generating incorrect or made up information.
+
+Conversational Memory in LangChain
+LangChain provides several types of memory, including ConversationBufferMemory, which stores the entire conversation history, and more advanced memory types that summarize or selectively store information. This allows a chatbot to understand references to earlier parts of a conversation, such as pronouns referring to previously mentioned topics.
+
+LangChain Ecosystem
+LangChain integrates with many language model providers, including open source models hosted through HuggingFace, as well as many vector databases, document sources, and deployment tools such as Streamlit, making it a flexible framework for building real world AI applications.

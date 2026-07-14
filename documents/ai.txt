@@ -1,0 +1,24 @@
+Artificial Intelligence (AI)
+
+Artificial Intelligence, or AI, is a branch of computer science that focuses on building machines and software capable of performing tasks that normally require human intelligence. These tasks include understanding language, recognizing images, making decisions, and solving problems.
+
+History of AI
+The term "Artificial Intelligence" was coined in 1956 at a conference held at Dartmouth College. Since then, AI has gone through several waves of enthusiasm and disappointment, often called "AI winters," followed by periods of rapid progress driven by better algorithms, more data, and faster hardware.
+
+Types of AI
+AI can be broadly divided into three categories.
+Narrow AI, also called weak AI, is designed to perform a specific task, such as facial recognition or playing chess. Almost all AI systems in use today fall into this category.
+General AI, also called strong AI, refers to a machine that could perform any intellectual task a human can do. This form of AI does not yet exist.
+Super AI is a hypothetical form of AI that would surpass human intelligence in every field. It remains a topic of theoretical discussion.
+
+Applications of AI
+AI is used in many industries today. In healthcare, AI helps doctors diagnose diseases from medical images. In finance, AI detects fraudulent transactions. In transportation, AI powers self driving cars. In customer service, AI chatbots answer customer questions automatically. In agriculture, AI helps predict crop yields and detect plant diseases early.
+
+Key AI Techniques
+Machine learning allows systems to learn patterns from data without being explicitly programmed. Deep learning uses artificial neural networks with many layers to learn complex patterns. Natural language processing enables machines to understand and generate human language. Computer vision allows machines to interpret and understand visual information from the world.
+
+Challenges in AI
+Despite its progress, AI faces several challenges. Bias in training data can lead to unfair outcomes. Lack of transparency in complex models makes it hard to explain decisions. Data privacy concerns arise when AI systems process personal information. Ensuring AI safety and alignment with human values is an ongoing research area.
+
+The Future of AI
+Researchers continue to work on making AI systems more efficient, explainable, and fair. Many experts believe AI will continue to transform industries such as healthcare, education, and manufacturing over the coming decades.

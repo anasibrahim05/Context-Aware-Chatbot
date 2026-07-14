@@ -1,0 +1,23 @@
+Machine Learning (ML)
+
+Machine Learning is a subset of Artificial Intelligence that gives computers the ability to learn from data and improve their performance over time without being explicitly programmed for every task.
+
+How Machine Learning Works
+A machine learning system is trained using a dataset. During training, the algorithm looks for patterns and relationships in the data. Once trained, the model can make predictions or decisions when given new, unseen data.
+
+Types of Machine Learning
+Supervised learning uses labeled data, where each training example has an input and a known correct output. The model learns to map inputs to outputs. Common supervised learning tasks include classification, such as spam detection, and regression, such as predicting house prices.
+Unsupervised learning uses data without labels. The algorithm tries to find hidden patterns or groupings in the data on its own. Clustering and dimensionality reduction are common unsupervised learning techniques.
+Reinforcement learning involves an agent that learns by interacting with an environment. The agent receives rewards or penalties based on its actions and learns to maximize the total reward over time. Reinforcement learning is used in robotics and game playing.
+
+Common Machine Learning Algorithms
+Linear regression predicts a continuous value based on input features. Logistic regression is used for binary classification problems. Decision trees split data into branches to make predictions. Random forests combine many decision trees to improve accuracy. Support vector machines find the best boundary to separate classes of data. K nearest neighbors classifies new data points based on the closest training examples.
+
+The Machine Learning Workflow
+A typical machine learning project involves several steps. First, data is collected and cleaned. Second, features are selected or engineered. Third, the data is split into training and testing sets. Fourth, a model is trained on the training set. Fifth, the model is evaluated on the testing set using metrics such as accuracy, precision, and recall. Finally, the model is deployed for real world use.
+
+Overfitting and Underfitting
+Overfitting occurs when a model learns the training data too well, including noise, and performs poorly on new data. Underfitting occurs when a model is too simple to capture the underlying patterns in the data. Techniques such as cross validation, regularization, and pruning help address these issues.
+
+Applications of Machine Learning
+Machine learning powers recommendation systems on streaming platforms, spam filters in email, credit scoring in banking, predictive maintenance in manufacturing, and personalized marketing in e commerce.

@@ -1,0 +1,21 @@
+Python Programming Language
+
+Python is a high level, general purpose programming language created by Guido van Rossum and first released in 1991. It is known for its clean, readable syntax, which makes it a popular choice for beginners and experienced developers alike.
+
+Key Features of Python
+Python has a simple and readable syntax that closely resembles plain English. It is an interpreted language, meaning code is executed line by line without a separate compilation step. Python is dynamically typed, so variable types are determined automatically at runtime. It supports multiple programming paradigms, including procedural, object oriented, and functional programming. Python has a huge standard library and an extensive ecosystem of third party packages available through the Python Package Index, known as PyPI.
+
+Why Python is Popular in AI and Data Science
+Python has become the leading language for artificial intelligence, machine learning, and data science. Libraries such as NumPy and Pandas make numerical computing and data manipulation easy. Libraries such as scikit learn, TensorFlow, and PyTorch provide powerful tools for building machine learning and deep learning models. Frameworks such as LangChain make it easy to build applications powered by large language models. Jupyter Notebooks and Google Colab provide interactive environments for writing and testing Python code.
+
+Basic Python Syntax
+Variables in Python do not need explicit type declarations. Indentation is used to define code blocks instead of curly braces. Functions are defined using the def keyword. Classes are defined using the class keyword for object oriented programming. Python supports list comprehensions, which allow concise creation of lists.
+
+Common Python Data Structures
+Lists are ordered, mutable collections of items. Tuples are ordered, immutable collections of items. Dictionaries store data as key value pairs. Sets are unordered collections of unique items.
+
+Python in Web and Software Development
+Python is also widely used outside of AI. Frameworks such as Django and Flask are used to build web applications. Python is used for automation scripts, task scheduling, and testing. It is also used in scientific computing, game development, and embedded systems through tools like MicroPython.
+
+Python Package Management
+Python packages can be installed using pip, the standard package manager. Virtual environments, created using tools such as venv or conda, allow developers to manage dependencies separately for different projects, avoiding conflicts between package versions.
